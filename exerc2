@@ -73,6 +73,7 @@ $empregado01-> aumento_salario_mensal();
 $empregado01-> setSalario_anual();
 echo "O SALARIO ANUAL DE {$empregado01-> getPrimeiro_nome()} RECEBEU UM ACRÉSCIMO DE 10% PASSANDO A SER DE R$ {$empregado01-> getSalario_anual()} n";
 
+
 //EMPREGADO 02
 
 $empregado02 = new Empregados();
