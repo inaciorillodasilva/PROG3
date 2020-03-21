@@ -1,0 +1,13 @@
+/!-- Descreva em no máximo 200 palavras o que é um automóvel e o que ele faz. Liste os substantivos e verbos separadamente. Cada substantivo corresponde a um objeto que precisará ser construído para implementar um sistema, nesse caso, um carro. Selecione 5 dos objetos que você listou e, para cada um, liste vários atributos e comportamentos. Descreva brevemente como esses objetos interagem entre si e com outros objetos na sua descrição. Estes passos que você seguiu são típicos do projeto orientado a objetos. --/
+DESCRIÇÃO: 
+Automóvel é um veículo que transporta cargas (objetos), passageiros (pessoas) ou ambos ao mesmo tempo. O veículo é movido pela força de um motor e conduzido por um motorista, este controla o automóvel por meio da ignição, da embreagem, do acelerador e do freio. 
+LISTAGEM:
+Substantivos: acelerador, automóvel, cargas, embreagem, força, freio ignição, motor, motorista, objetos, passageiros, pessoas, tempo, veículo.
+Verbos: conduzido, controla, é, movido, transporta.
+OBJETOS:
+Ignição: constituído por peças eletrônicas, é o objeto responsável pela inicialização do motor.
+Motor: constituído por diversos mecanismos que, gerando energia por meio de algum combustível, dão força para o automóvel desempenhar suas funções.
+Embreagem: é um pedal que, quando pressionado, impede que o automóvel perca a força e auxilia na troca de marchas.
+Acelerador: é um pedal, que quando pressionado, faz com que o automóvel inicie a sua locomoção ou que aumente sua velocidade.
+Freio: é um pedal que, quando pressionado, faz com que o automóvel reduza a sua velocidade ou encerre seu mov.
+	Quando o motorista aciona a ignição o motor começa a trabalhar, com o trabalho do motor o automóvel pode desempenhar suas funções. Sendo assim, a embreagem recebe sua importância, pois impede que o veículo cesse o trabalho. Nesse contexto, o acelerador e o freio desempenham suas incumbências com facilidade – mantendo e regulando o movimento do automóvel.
